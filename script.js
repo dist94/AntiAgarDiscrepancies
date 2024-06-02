@@ -6,8 +6,9 @@
 // @match        *agario.fun/*
 // @match        *agar.cc/*
 // @match        *bublz.us/*
-// @match        *dual-senpai.online/*
+// @match        *senpai-agar.online/*
 // @match        *agar.live/*
+// @match        *cellsbox.io/*
 // @match        *agma.io/*
 // @grant        none
 // @run-at       document-start
